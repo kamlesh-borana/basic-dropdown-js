@@ -1,0 +1,23 @@
+{
+  "name": "basic-dropdown-kb",
+  "version": "1.0.0",
+  "description": "Add basic dropdown functionality to show/hide the dropdown's content for all the dropdown on the page.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kamlesh-borana/basic-dropdown-js.git"
+  },
+  "keywords": [
+    "dropdown",
+    "kb"
+  ],
+  "author": "Kamlesh Borana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kamlesh-borana/basic-dropdown-js/issues"
+  },
+  "homepage": "https://github.com/kamlesh-borana/basic-dropdown-js#readme"
+}
